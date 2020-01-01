@@ -58,10 +58,10 @@ brew install pkg-config
 ``` 
 4. git clone this sourcecode and run
 ```sh
-    git clone https://github.com/3b1b/manim.git
-    cd manim
-    pip3 install -r requirements.txt
-    python3 manim.py example_scenes.py SquareToCircle -pl
+git clone https://github.com/3b1b/manim.git
+cd manim
+pip3 install -r requirements.txt
+python3 manim.py example_scenes.py SquareToCircle -pl
 ```
 
 ### Directly (Windows)
